@@ -20,7 +20,7 @@ body {
     border: 1px solid #717377;
     padding: 20px;
     border-radius: 16px;
-    background: #2b2b2b; /* Changed calculator background color */
+    background: #2b2b2b; 
     box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
 }
 
@@ -34,11 +34,11 @@ input {
     font-size: 40px;
     text-align: right;
     cursor: pointer;
-    color: #fff; /* Changed font color to white */
+    color: #fff; 
 }
 
 input::placeholder {
-    color: #ccc; /* Changed placeholder color to light gray */
+    color: #ccc; 
 }
 
 button {
@@ -47,7 +47,7 @@ button {
     height: 60px;
     margin: 10px;
     border-radius: 50%;
-    background: #333; /* Changed button background color */
+    background: #333; 
     color: #fff;
     font-size: 20px;
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1);
@@ -55,9 +55,9 @@ button {
 }
 
 .equalBtn {
-    background-color: #444; /* Changed equal button background color */
+    background-color: #444;
 }
 
 .operator {
-    color: #6dee0a; /* Changed operator color */
+    color: #6dee0a;
 }
